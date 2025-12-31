@@ -1,0 +1,6 @@
+deployment:
+  imageRepo: lavanyaesw/catalogue
+  imageVersion: IMAGE_VERSION
+service:
+  type: ClusterIP
+  servicePort: 8080
