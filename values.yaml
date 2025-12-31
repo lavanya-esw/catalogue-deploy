@@ -1,5 +1,5 @@
 deployment:
-  imageRepo: lavanyaesw/catalogue
+  imageRepo: 500532068743.dkr.ecr.us-east-1.amazonaws.com/roboshop/cart
   imageVersion: IMAGE_VERSION
 service:
   type: ClusterIP
